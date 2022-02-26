@@ -1,32 +1,36 @@
-## Welcome to GitHub Pages
+<p style = "font-family:georgia,garamond,serif;font-size:40px;font-style:italic;">
+i'm absolutely the worst html programmer ever
 
-You can use the [editor on GitHub](https://github.com/xGosiewilz211/xGosiewilz211.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<p>&nbsp;</p>
+<strong><p><a title="snapchat" href="https://bit.ly/gosiewilsnapchat">snapchat</a></p>
+<p><a title="discord" href="https://bit.ly/gosiewildiscord">discord</a></p>
+<p><a title="youtube1" href="https://bit.ly/gosiewilyoutube1">youtube 1</a></p>
+<p><a title="youtube 2" href="https://bit.ly/gosiewilyoutube2">youtube 2</a></p>
+<p><a title="spotify" href="https://bit.ly/gosiewilspotify">spotify</a></p>
+<p><a title="twitter" href="https://bit.ly/gosiewiltwitter">twitter</a></p>
+<p><a title="facebook" href="https://bit.ly/gosiewilfacebook">facebook</a></p>
+<p><a title="twitch" href="https://bit.ly/gosiewiltwitch">twitch</a></p>
+<p><a title="steam" href="https://bit.ly/gosiewilsteam">steam</a></p></strong>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<style>
+body {
+  background-image: url('https://i.ibb.co/hfzN0v2/Untitled.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+ }
+</style>
+<em>
+<p>uh still work in progress</p></em>
+<p>&nbsp;</p>
+<img src="https://images-ext-2.discordapp.net/external/IHp6fX2cI4hWF4IGBSL82olXOKHoL3MregfzxNmzmK4/https/media.discordapp.net/attachments/828711377073602570/843199210408116306/caption.gif" alt="nigeria"  width="500" />
+<p>&nbsp;</p>
+technik informatyk gaming.
 
 ### Jekyll Themes
 
