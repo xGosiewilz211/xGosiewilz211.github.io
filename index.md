@@ -20,11 +20,7 @@ i'm absolutely the worst html programmer ever
 <style>
 body {
   background-image: url('https://i.ibb.co/hfzN0v2/Untitled.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
  }
-</style>
 <em>
 <p>uh still work in progress</p></em>
 <p>&nbsp;</p>
