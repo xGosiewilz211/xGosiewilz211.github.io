@@ -8,7 +8,6 @@ font-family:Arial, sans-serif;font-size:large;font-style:italic;font-weight:bold
 <!-- HTML Code -->
 <div class="GeneratedText">i'm absolutely the worst html programmer ever</div>
 
-i give up ffs
 
 
 
@@ -24,7 +23,7 @@ i give up ffs
      <td align="center" style="padding: 10px;">
        <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
          <tr>
-           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 50px; -webkit-border-radius: 5px; padding: 15px 20px; " width="70%">
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; padding: 15px 20px; " width="70%">
            <!--[if mso]>&nbsp;<![endif]-->
                <a href="https://bit.ly/gosiewildiscord" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color; text-decoration: none; border: none; display: inline-block;">
                    <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: font-weight:normal; text-align:center;">discord</span>
@@ -207,6 +206,8 @@ body {
   background-size: 100% 100%;
  }
 <em>
+ <p>&nbsp;</p>
+<div class="GeneratedText">i give up ffs</div>
 <p>uh still work in progress</p></em>
 <p>&nbsp;</p>
 <img src="https://images-ext-2.discordapp.net/external/IHp6fX2cI4hWF4IGBSL82olXOKHoL3MregfzxNmzmK4/https/media.discordapp.net/attachments/828711377073602570/843199210408116306/caption.gif" alt="nigeria"  width="500" />
