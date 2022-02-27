@@ -1,5 +1,13 @@
-<p style = "font-family:georgia,garamond,serif;font-size:40px;font-style:italic;">
-i'm absolutely the worst html programmer ever
+<!-- CSS Code -->
+<style type="text/css" scoped>
+.GeneratedText {
+font-family:Arial, sans-serif;font-size:large;font-style:italic;font-weight:bold;letter-spacing:0.2em;line-height:1.3em;color:#FFFFFF;padding:1.5em;
+}
+</style>
+
+<!-- HTML Code -->
+<div class="GeneratedText">i'm absolutely the worst programmer ever</div>
+
 
 
 
@@ -18,7 +26,15 @@ i'm absolutely the worst html programmer ever
                <a href="https://bit.ly/gosiewildiscord" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; display: inline-block;">
                    <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">discord</span>
              </a>
-           <!--[if mso]>&nbsp;<![endif]-->
+           <!--[if mso]>&nbsp;<![endif]--
+.b1 {
+    border: none;
+    background: none;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+}
+<button class="b1">I'm a button</button>>
            </td>
          </tr>
        </table>
