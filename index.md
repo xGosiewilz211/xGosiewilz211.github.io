@@ -6,20 +6,194 @@ i'm absolutely the worst html programmer ever
 
 
 <p>&nbsp;</p>
-<strong><p><a title="snapchat" href="https://bit.ly/gosiewilsnapchat">snapchat</a></p>
-<p><a title="discord" href="https://bit.ly/gosiewildiscord">discord</a></p>
-<p><a title="youtube1" href="https://bit.ly/gosiewilyoutube1">youtube 1</a></p>
-<p><a title="youtube 2" href="https://bit.ly/gosiewilyoutube2">youtube 2</a></p>
-<p><a title="spotify" href="https://bit.ly/gosiewilspotify">spotify</a></p>
-<p><a title="twitter" href="https://bit.ly/gosiewiltwitter">twitter</a></p>
-<p><a title="facebook" href="https://bit.ly/gosiewilfacebook">facebook</a></p>
-<p><a title="twitch" href="https://bit.ly/gosiewiltwitch">twitch</a></p>
-<p><a title="steam" href="https://bit.ly/gosiewilsteam">steam</a></p></strong>
+<!--Button-->
+<center>
+ <table align="center" cellspacing="0" cellpadding="0" width="100%">
+   <tr>
+     <td align="center" style="padding: 10px;">
+       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
+         <tr>
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: auto; max-width: 600px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; padding: 15px 20px; " width="100%">
+           <!--[if mso]>&nbsp;<![endif]-->
+               <a href="https://bit.ly/gosiewildiscord" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">discord</span>
+             </a>
+           <!--[if mso]>&nbsp;<![endif]-->
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+ </table>
+</center>
+<!--Button-->
+<center>
+ <table align="center" cellspacing="0" cellpadding="0" width="100%">
+   <tr>
+     <td align="center" style="padding: 10px;">
+       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
+         <tr>
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: auto; max-width: 600px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; padding: 15px 20px; " width="100%">
+           <!--[if mso]>&nbsp;<![endif]-->
+               <a href="https://bit.ly/gosiewilspotify" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">spotify</span>
+             </a>
+           <!--[if mso]>&nbsp;<![endif]-->
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+ </table>
+</center>
+<!--Button-->
+<center>
+ <table align="center" cellspacing="0" cellpadding="0" width="100%">
+   <tr>
+     <td align="center" style="padding: 10px;">
+       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
+         <tr>
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: auto; max-width: 600px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; padding: 15px 20px; " width="100%">
+           <!--[if mso]>&nbsp;<![endif]-->
+               <a href="https://bit.ly/gosiewilyoutube1" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">youtube 1</span>
+             </a>
+           <!--[if mso]>&nbsp;<![endif]-->
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+ </table>
+</center>
+<!--Button-->
+<center>
+ <table align="center" cellspacing="0" cellpadding="0" width="100%">
+   <tr>
+     <td align="center" style="padding: 10px;">
+       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
+         <tr>
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: auto; max-width: 600px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; padding: 15px 20px; " width="100%">
+           <!--[if mso]>&nbsp;<![endif]-->
+               <a href="https://bit.ly/gosiewilyoutube2" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">youtube 2</span>
+             </a>
+           <!--[if mso]>&nbsp;<![endif]-->
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+ </table>
+</center>
+<!--Button-->
+<center>
+ <table align="center" cellspacing="0" cellpadding="0" width="100%">
+   <tr>
+     <td align="center" style="padding: 10px;">
+       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
+         <tr>
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: auto; max-width: 600px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; padding: 15px 20px; " width="100%">
+           <!--[if mso]>&nbsp;<![endif]-->
+               <a href="https://bit.ly/gosiewilsnapchat" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">snapchat</span>
+             </a>
+           <!--[if mso]>&nbsp;<![endif]-->
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+ </table>
+</center>
+<!--Button-->
+<center>
+ <table align="center" cellspacing="0" cellpadding="0" width="100%">
+   <tr>
+     <td align="center" style="padding: 10px;">
+       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
+         <tr>
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: auto; max-width: 600px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; padding: 15px 20px; " width="100%">
+           <!--[if mso]>&nbsp;<![endif]-->
+               <a href="https://bit.ly/gosiewilsteam" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">steam</span>
+             </a>
+           <!--[if mso]>&nbsp;<![endif]-->
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+ </table>
+</center>
+<!--Button-->
+<center>
+ <table align="center" cellspacing="0" cellpadding="0" width="100%">
+   <tr>
+     <td align="center" style="padding: 10px;">
+       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
+         <tr>
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: auto; max-width: 600px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; padding: 15px 20px; " width="100%">
+           <!--[if mso]>&nbsp;<![endif]-->
+               <a href="https://bit.ly/gosiewilfacebook" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">facebook</span>
+             </a>
+           <!--[if mso]>&nbsp;<![endif]-->
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+ </table>
+</center>
+<!--Button-->
+<center>
+ <table align="center" cellspacing="0" cellpadding="0" width="100%">
+   <tr>
+     <td align="center" style="padding: 10px;">
+       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
+         <tr>
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: auto; max-width: 600px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; padding: 15px 20px; " width="100%">
+           <!--[if mso]>&nbsp;<![endif]-->
+               <a href="https://bit.ly/gosiewiltwitter" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">twitter</span>
+             </a>
+           <!--[if mso]>&nbsp;<![endif]-->
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+ </table>
+</center>
+<!--Button-->
+<center>
+ <table align="center" cellspacing="0" cellpadding="0" width="100%">
+   <tr>
+     <td align="center" style="padding: 10px;">
+       <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
+         <tr>
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: auto; max-width: 600px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; padding: 15px 20px; " width="100%">
+           <!--[if mso]>&nbsp;<![endif]-->
+               <a href="https://bit.ly/gosiewiltwitch" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">twitch</span>
+             </a>
+           <!--[if mso]>&nbsp;<![endif]-->
+           </td>
+         </tr>
+       </table>
+     </td>
+   </tr>
+ </table>
+</center>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <style>
 body {
   background-image: url('https://i.ibb.co/hfzN0v2/Untitled.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
  }
 <em>
 <p>uh still work in progress</p></em>
