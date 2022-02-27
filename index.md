@@ -16,6 +16,7 @@ i give up ffs
 
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 <!--Button-->
 <center>
  <table align="center" cellspacing="0" cellpadding="0" width="100%">
@@ -23,10 +24,10 @@ i give up ffs
      <td align="center" style="padding: 10px;">
        <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
          <tr>
-           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="70%">
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 50px; -webkit-border-radius: 5px; padding: 15px 20px; " width="70%">
            <!--[if mso]>&nbsp;<![endif]-->
-               <a href="https://bit.ly/gosiewildiscord" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
-                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: font-weight:normal; line-height:1.5em; text-align:center;">discord</span>
+               <a href="https://bit.ly/gosiewildiscord" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color; text-decoration: none; border: none; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; color: font-weight:normal; text-align:center;">discord</span>
              </a>
            <!--[if mso]>&nbsp;<![endif]-->
            </td>
@@ -43,10 +44,10 @@ i give up ffs
      <td align="center" style="padding: 10px;">
        <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
          <tr>
-           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="70%">
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; padding: 15px 20px; " width="70%">
            <!--[if mso]>&nbsp;<![endif]-->
-               <a href="https://bit.ly/gosiewilspotify" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
-                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; line-height:1.5em; text-align:center;">spotify</span>
+               <a href="https://bit.ly/gosiewilspotify" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; text-align:center;">spotify</span>
              </a>
            <!--[if mso]>&nbsp;<![endif]-->
            </td>
@@ -63,10 +64,10 @@ i give up ffs
      <td align="center" style="padding: 10px;">
        <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
          <tr>
-           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="88%">
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; padding: 15px 20px; " width="88%">
            <!--[if mso]>&nbsp;<![endif]-->
-               <a href="https://bit.ly/gosiewilyoutube1" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
-                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; line-height:1.5em; text-align:center;">youtube 1</span>
+               <a href="https://bit.ly/gosiewilyoutube1" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; text-align:center;">youtube 1</span>
              </a>
            <!--[if mso]>&nbsp;<![endif]-->
            </td>
@@ -83,10 +84,10 @@ i give up ffs
      <td align="center" style="padding: 10px;">
        <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
          <tr>
-           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="88%">
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; padding: 15px 20px; " width="88%">
            <!--[if mso]>&nbsp;<![endif]-->
-               <a href="https://bit.ly/gosiewilyoutube2" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
-                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; line-height:1.5em; text-align:center;">youtube 2</span>
+               <a href="https://bit.ly/gosiewilyoutube2" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; text-align:center;">youtube 2</span>
              </a>
            <!--[if mso]>&nbsp;<![endif]-->
            </td>
@@ -103,10 +104,10 @@ i give up ffs
      <td align="center" style="padding: 10px;">
        <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
          <tr>
-           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="85%">
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; padding: 15px 20px; " width="85%">
            <!--[if mso]>&nbsp;<![endif]-->
-               <a href="https://bit.ly/gosiewilsnapchat" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
-                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; line-height:1.5em; text-align:center;">snapchat</span>
+               <a href="https://bit.ly/gosiewilsnapchat" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; text-align:center;">snapchat</span>
              </a>
            <!--[if mso]>&nbsp;<![endif]-->
            </td>
@@ -123,10 +124,10 @@ i give up ffs
      <td align="center" style="padding: 10px;">
        <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
          <tr>
-           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="70%">
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; padding: 15px 20px; " width="70%">
            <!--[if mso]>&nbsp;<![endif]-->
-               <a href="https://bit.ly/gosiewilsteam" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
-                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; line-height:1.5em; text-align:center;">steam</span>
+               <a href="https://bit.ly/gosiewilsteam" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; text-align:center;">steam</span>
              </a>
            <!--[if mso]>&nbsp;<![endif]-->
            </td>
@@ -143,10 +144,10 @@ i give up ffs
      <td align="center" style="padding: 10px;">
        <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
          <tr>
-           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="88%">
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; padding: 15px 20px; " width="88%">
            <!--[if mso]>&nbsp;<![endif]-->
-               <a href="https://bit.ly/gosiewilfacebook" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
-                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; line-height:1.5em; text-align:center;">facebook</span>
+               <a href="https://bit.ly/gosiewilfacebook" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; text-align:center;">facebook</span>
              </a>
            <!--[if mso]>&nbsp;<![endif]-->
            </td>
@@ -163,10 +164,10 @@ i give up ffs
      <td align="center" style="padding: 10px;">
        <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
          <tr>
-           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="75%">
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; padding: 15px 20px; " width="75%">
            <!--[if mso]>&nbsp;<![endif]-->
-               <a href="https://bit.ly/gosiewiltwitter" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
-                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; line-height:1.5em; text-align:center;">twitter</span>
+               <a href="https://bit.ly/gosiewiltwitter" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; text-align:center;">twitter</span>
              </a>
            <!--[if mso]>&nbsp;<![endif]-->
            </td>
@@ -183,10 +184,10 @@ i give up ffs
      <td align="center" style="padding: 10px;">
        <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
          <tr>
-           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 15px 20px; " width="70%">
+           <td align="center" bgcolor="#4f5864" style="background-color: #4f5864; margin: 0; outline: 0; border: none; max-width: 600px; -webkit-border-radius: 5px; padding: 15px 20px; " width="70%">
            <!--[if mso]>&nbsp;<![endif]-->
-               <a href="https://bit.ly/gosiewiltwitch" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; display: inline-block;">
-                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; line-height:1.5em; text-align:center;">twitch</span>
+               <a href="https://bit.ly/gosiewiltwitch" target="_blank" style="16px; font-family: Verdana, Geneva, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #4f5864; text-decoration: none; border: none; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Verdana, Geneva, sans-serif; font-weight:normal; text-align:center;">twitch</span>
              </a>
            <!--[if mso]>&nbsp;<![endif]-->
            </td>
